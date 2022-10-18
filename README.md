@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sergioricardoarct
 - 👀 I’m interested in ...Programação  e QA
-- 🌱 I’m currently learning ...Java, JavaScript e Testes de software
+- 🌱 I’m currently learning ...Python, Java e Testes de software
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
